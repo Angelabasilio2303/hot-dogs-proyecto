@@ -1,0 +1,41 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<style>
+  body {
+    background-image:url('https://i.pinimg.com/736x/99/4c/b0/994cb0d508851046df518c550a969b05.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+</style>
+
+<img class="foto1" style="float:left;" src="https://www.antojoentucocina.com/wp-content/uploads/2021/06/hot-dog-10-min-2-1024x683.jpg" border="15"  width="300" height="300"> 
+<font color="blue" >
+<H1> Hot Dog estilo Nueva York</H1>
+
+	<p> <h1>6 tiras de beicon</h1> </p> 
+<p> <h1> Mostaza Mayonesa Queso amarillo ketchup</h1> </p> 
+
+<p> <h1>Pimenton  Dulce chile en polvo (opcional, para un toque picante)</h1> </p> 
+
+<p> <h1>aceite de oliva </h1> </p> 
+
+<p> <h1>cebolla caramelizada azúcar moreno</h1> </p> </font>
+
+ <a href="domicilio.html"> <button>PEDIR</button> </a> </h2> 
+
+
+
+<img class="foto2" style="float:right;"src="https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/04/21/62611dd157031.jpeg" border="15" width="300" height="300"> <H1> Hot Dog Empanizado </H1> 
+<font color="#0AFBDA" >
+<h2>
+2 frankfurts Queso Emmental 6 rebanadas de pan Bimbo Copos de maíz 2 huevos Aceite de oliva Ketchup Mostaza la salchicha clavada en un pincho de madera, empanada en harina y huevo y decorada con distintas salsas. En algunas recetas al empanado se le añaden patatas fritas.
+</font>
+ <a href="domicilio.html"> <button>PEDIR</button> </a> </h2> 
+
+<a href="ordenar4.html"><h2>Seguir viendo menu</h2></a>
+<a href="ordenar2.html"><h2>Regresar</h2></a>
+		</body>
+</script>
+</html>
