@@ -1,0 +1,36 @@
+<<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+  body {
+    background-image:url('https://previews.123rf.com/images/creativika/creativika1607/creativika160700007/60484098-hot-dog-mano-dibuja-el-patr%C3%B3n-transparente-la-comida-r%C3%A1pida-elemento-de-dise%C3%B1o-la-textura-perfecta.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+</style>
+
+<img class="foto1" style="float:left;" src="https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/05b0c91b17ded782d5cb45158897244f.jpg" border="15" width="300" height="300"> <H1> HOT DOG TRADICIONAL </H1>
+ <font color="black" >
+ 	<p> <h2> Lleva como ingredientes principales </h2> </p>
+	<p> <h2> Salchichas (A su eleccion el tipo de carne ) </h2></p>
+	<p><h2> Mayonesa Queso amarillo ketchup</h2> </p>
+	<p><h2> Tomate( Este es cortado en cuadritos y tambien es a eleccion ) </h2></p> 
+	<p><h2> Cebolla( Este es cortado en cuadritos y tambien es a eleccion ) </h2></p> </font>
+<a href="domicilio.html"> <button>PEDIR</button> </a> </h2> 
+
+
+
+<img class="foto2" style="float:right;"src="https://c8.alamy.com/compes/t4bh47/delicioso-perro-caliente-con-bacon-y-verduras-servidas-con-papas-fritas-y-salsas-de-cerca-en-la-tabla-superior-horizontal-vista-desde-arriba-t4bh47.jpg" border="15" width="300" height="300"> <H1> HOT DOGS CON TOCINO Y PAPAS</H1> 
+<font color="#0043F4" >
+<p> <h2> Lleva como ingredientes principales </h2> </p>s
+	<p> <h2> Salchichas (A su eleccion el tipo de carne ) Mayonesa Queso amarillo ketchup Tomate( Este es cortado en cuadritos y tambien es a eleccion ) Cebolla( Este es cortado en cuadritos y tambien es a eleccion ) Tocino de cerdo frito Quesillo derretido y una orden de Papas a la francesa  </h2></p> </font>
+	<a href="domicilio.html"> <button>PEDIR</button> </a> </h2> 
+
+<a href="ordenar2.html"><h2>Seguir viendo menu</h2></a>
+<a href="especialidad.html"><h2>Regresar </h2></a>
+
+		</body>
+</script>
+</html>
